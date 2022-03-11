@@ -1,6 +1,7 @@
 # 💉💉 WebSite de Vacunacion 💉💉
 
 Página creada a partir de la imagen: [Link del diseño](/assets/Landing.png), realizada por Adhiari Subekti
+Proyecto asignado por el programa "LaunchX"  de Microsoft Innovaccion Virtual
 
 ## 💉💻Link de deploy Github Pages
 https://cesarbuendiag.github.io/VaccinesWeb/
