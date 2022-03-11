@@ -9,7 +9,7 @@ https://cesarbuendiag.github.io/VaccinesWeb/
 
 Todo los iconos fueron realizados desde cero en CANVA
 
-<img src="assets/logos.png" alt="logos" width="300px">
+<img src="assets/Logos.png" alt="logos" width="300px">
 
 ## 💉Tecnologías utilizadas🛠️ 
 - HTML 
