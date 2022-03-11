@@ -1,6 +1,6 @@
 # 💉💉 WebSite de Vacunacion 💉💉
 
-Página creada a partir de la imagen: [Link del diseño](img src="assets/Landing.png" width="300px">), realizada por Adhiari Subekti
+Página creada a partir de la imagen: [Link del diseño](/Landing.png), realizada por Adhiari Subekti
 
 ## 💉💻Link de deploy Github Pages
 https://cesarbuendiag.github.io/VaccinesWeb/
