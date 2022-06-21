@@ -25,7 +25,8 @@ Todo los iconos e imagenes fueron realizados desde cero en "Canva"
 ## 💉Tecnologías utilizadas🛠️ 
 - HTML 
 - CSS
-- Canva
+- Javascript
+
 
 
 
